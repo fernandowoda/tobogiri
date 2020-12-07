@@ -1,2 +1,0 @@
-# tobogiri
-makanyuk
